@@ -92,3 +92,7 @@ Para compilar e rodar os testes:
 g++ tests/tests.cpp src/linked_list.cpp -Iinclude -o tests_bin
 ./tests_bin
 ```
+
+## Funcionamento
+
+Primeiro rodar o codico pelo main, assim ele abrirá um menu com 8 opções
