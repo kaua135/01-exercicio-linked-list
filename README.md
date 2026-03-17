@@ -96,3 +96,42 @@ g++ tests/tests.cpp src/linked_list.cpp -Iinclude -o tests_bin
 ## Funcionamento
 
 Primeiro rodar o codico pelo main, assim ele abrirá um menu com 8 opções
+sendo elas:
+
+"1 - Inserir no inicio
+"2 - Inserir em posicao
+"3 - Remover em posicao
+"4 - Mostrar lista
+"5 - Numero de elementos
+"6 - Verificar se lista esta vazia
+"7 - Inverter lista
+"8 - Destruir lista
+"0 - Sair
+
+** Inserir no inicio **
+Essa opção faz com que você insira alguma coisa no inicio da lista.
+
+** Inserir em posicao **
+Essa opção faz com que você escolha uma posição da lista e coloque algo nesta posição escolhida.
+
+** Remover em posicao **
+Remove a o objeto da posição escolhida.
+
+** Mostrar lista **
+Mostra a lista.
+
+** Numero de elementos **
+Fala o número de elementos na lista.
+
+** Verificar se lista esta vazia **
+verifica se a lista está vazia.
+
+** Inverter lista **
+ele inverte a sequencia da lista então por exemplo: 1,2,3,4,5 vai ficar 5,4,3,2,1.
+
+** Destruir lista **
+Destroi a lista.
+
+** Sair **
+você fecha o sistema, sai do codigo.
+
